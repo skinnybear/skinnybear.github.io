@@ -1,4 +1,15 @@
 {
+"skeleton": {
+	"hash": "oWmiVi1bMvKd4s1Z/3gwZlShwlw",
+	"spine": "3.8.82",
+	"x": 5.3,
+	"y": 197.9,
+	"width": 891.5,
+	"height": 635,
+	"images": "./images/",
+	"audio": "D:/Dropbox/Public/LW/MPJ#3_work/02本制作/Spine/アカシ"
+},
+{
 
 	"bones": [
 		{
@@ -9629,4 +9640,5 @@
 			}
 		}
 	}
+}
 }
