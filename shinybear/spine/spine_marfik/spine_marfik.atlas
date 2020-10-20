@@ -1,0 +1,230 @@
+
+spine_marfik.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 545, 730
+  size: 282, 291
+  orig: 284, 291
+  offset: 2, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 210, 335
+  size: 213, 130
+  orig: 213, 130
+  offset: 0, 0
+  index: -1
+Charm
+  rotate: true
+  xy: 609, 350
+  size: 15, 161
+  orig: 15, 161
+  offset: 0, 0
+  index: -1
+Charm2
+  rotate: false
+  xy: 954, 890
+  size: 15, 132
+  orig: 15, 132
+  offset: 0, 0
+  index: -1
+D_Body
+  rotate: 270
+  xy: 729, 496
+  size: 284, 291
+  orig: 284, 291
+  offset: 0, 0
+  index: -1
+D_F_Normal
+  rotate: false
+  xy: 946, 94
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+D_Head2
+  rotate: 180
+  xy: 667, 276
+  size: 273, 122
+  orig: 273, 122
+  offset: 0, 0
+  index: -1
+D_LArm
+  rotate: 270
+  xy: 840, 365
+  size: 138, 174
+  orig: 138, 174
+  offset: 0, 0
+  index: -1
+D_LLeg
+  rotate: 180
+  xy: 520, 494
+  size: 200, 246
+  orig: 200, 246
+  offset: 0, 0
+  index: -1
+D_RArm2
+  rotate: true
+  xy: 414, 231
+  size: 106, 147
+  orig: 106, 147
+  offset: 0, 0
+  index: -1
+D_RHand
+  rotate: false
+  xy: 621, 120
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1
+D_RLeg
+  rotate: 270
+  xy: 584, 360
+  size: 156, 240
+  orig: 156, 241
+  offset: 0, 1
+  index: -1
+D_RLeg2
+  rotate: true
+  xy: 565, 200
+  size: 134, 157
+  orig: 134, 157
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 725, 154
+  size: 129, 143
+  orig: 129, 143
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: 180
+  xy: 68, 234
+  size: 273, 115
+  orig: 273, 122
+  offset: 0, 0
+  index: -1
+LArm
+  rotate: true
+  xy: 409, 342
+  size: 138, 174
+  orig: 138, 174
+  offset: 0, 0
+  index: -1
+LArm2
+  rotate: false
+  xy: 821, 819
+  size: 138, 203
+  orig: 138, 203
+  offset: 0, 0
+  index: -1
+LHand
+  rotate: 270
+  xy: 933, 776
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: true
+  xy: 4, 427
+  size: 177, 246
+  orig: 200, 246
+  offset: 0, 0
+  index: -1
+LLeg2
+  rotate: true
+  xy: 4, 310
+  size: 128, 190
+  orig: 128, 190
+  offset: 0, 0
+  index: -1
+LLeg3
+  rotate: false
+  xy: 165, 145
+  size: 117, 93
+  orig: 117, 93
+  offset: 0, 0
+  index: -1
+N_F_Attack
+  rotate: false
+  xy: 346, 258
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+N_F_Damage
+  rotate: true
+  xy: 419, 90
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+N_F_Normal
+  rotate: true
+  xy: 724, 85
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: true
+  xy: 854, 168
+  size: 134, 166
+  orig: 134, 167
+  offset: 0, 1
+  index: -1
+RArm2
+  rotate: true
+  xy: 285, 140
+  size: 106, 147
+  orig: 106, 147
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: 180
+  xy: 814, 94
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1
+RHand2
+  rotate: false
+  xy: 138, 96
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: true
+  xy: 230, 454
+  size: 151, 241
+  orig: 156, 241
+  offset: 5, 0
+  index: -1
+RLeg2
+  rotate: true
+  xy: 4, 141
+  size: 129, 157
+  orig: 134, 157
+  offset: 0, 0
+  index: -1
+RLeg3
+  rotate: false
+  xy: 435, 115
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 4, 607
+  size: 537, 413
+  orig: 537, 413
+  offset: 0, 0
+  index: -1

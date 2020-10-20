@@ -1,0 +1,300 @@
+
+spine_ryekie.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 356, 429
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+Cloak1
+  rotate: true
+  xy: 146, 340
+  size: 176, 381
+  orig: 177, 381
+  offset: 1, 0
+  index: -1
+Cloak2
+  rotate: false
+  xy: 377, 633
+  size: 369, 386
+  orig: 369, 386
+  offset: 0, 0
+  index: -1
+D_Body
+  rotate: false
+  xy: 689, 426
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+D_Cloak1
+  rotate: false
+  xy: 749, 638
+  size: 177, 381
+  orig: 177, 381
+  offset: 0, 0
+  index: -1
+D_Cloak2
+  rotate: false
+  xy: 4, 633
+  size: 369, 386
+  orig: 369, 386
+  offset: 0, 0
+  index: -1
+D_F_damage
+  rotate: false
+  xy: 901, 448
+  size: 102, 67
+  orig: 102, 67
+  offset: 0, 0
+  index: -1
+D_Head
+  rotate: true
+  xy: 4, 264
+  size: 116, 141
+  orig: 116, 141
+  offset: 0, 0
+  index: -1
+D_L_arm1
+  rotate: false
+  xy: 204, 486
+  size: 132, 143
+  orig: 132, 143
+  offset: 0, 0
+  index: -1
+D_L_arm2
+  rotate: true
+  xy: 680, 93
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+D_L_arm3
+  rotate: false
+  xy: 930, 658
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+D_L_leg1
+  rotate: true
+  xy: 4, 384
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+D_L_leg2
+  rotate: false
+  xy: 840, 276
+  size: 108, 146
+  orig: 108, 146
+  offset: 0, 0
+  index: -1
+D_L_leg3
+  rotate: false
+  xy: 141, 30
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+D_RArm2
+  rotate: false
+  xy: 569, 517
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+D_RArm3
+  rotate: false
+  xy: 886, 90
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+D_RLeg1
+  rotate: true
+  xy: 149, 253
+  size: 109, 149
+  orig: 109, 149
+  offset: 0, 0
+  index: -1
+D_RLeg2
+  rotate: true
+  xy: 302, 158
+  size: 95, 133
+  orig: 95, 133
+  offset: 0, 0
+  index: -1
+D_RLeg3
+  rotate: true
+  xy: 930, 734
+  size: 113, 67
+  orig: 113, 67
+  offset: 0, 0
+  index: -1
+D_belt
+  rotate: true
+  xy: 930, 851
+  size: 168, 45
+  orig: 168, 45
+  offset: 0, 0
+  index: -1
+D_neck
+  rotate: false
+  xy: 4, 519
+  size: 196, 110
+  orig: 196, 110
+  offset: 0, 0
+  index: -1
+D_waist
+  rotate: false
+  xy: 302, 257
+  size: 191, 79
+  orig: 191, 79
+  offset: 0, 0
+  index: -1
+F_Arttack
+  rotate: false
+  xy: 633, 448
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+F_damage
+  rotate: false
+  xy: 281, 425
+  size: 69, 57
+  orig: 100, 57
+  offset: 23, 0
+  index: -1
+F_normal
+  rotate: false
+  xy: 680, 28
+  size: 77, 62
+  orig: 102, 67
+  offset: 25, 2
+  index: -1
+Head
+  rotate: 270
+  xy: 432, 73
+  size: 116, 141
+  orig: 116, 141
+  offset: 0, 0
+  index: -1
+L_arm1
+  rotate: 270
+  xy: 529, 253
+  size: 132, 143
+  orig: 132, 143
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: false
+  xy: 901, 519
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+L_arm3
+  rotate: false
+  xy: 941, 24
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: true
+  xy: 677, 197
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 173, 105
+  size: 108, 130
+  orig: 108, 146
+  offset: 0, 0
+  index: -1
+L_leg3
+  rotate: true
+  xy: 811, 62
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+RArm1
+  rotate: true
+  xy: 280, 69
+  size: 85, 130
+  orig: 85, 130
+  offset: 0, 0
+  index: -1
+RArm2
+  rotate: false
+  xy: 571, 53
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+RArm3
+  rotate: false
+  xy: 146, 373
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+RLeg1
+  rotate: true
+  xy: 803, 164
+  size: 109, 149
+  orig: 109, 149
+  offset: 0, 0
+  index: -1
+RLeg2
+  rotate: true
+  xy: 4, 67
+  size: 99, 133
+  orig: 99, 133
+  offset: 0, 0
+  index: -1
+RLeg3
+  rotate: true
+  xy: 952, 326
+  size: 119, 65
+  orig: 120, 65
+  offset: 1, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 569, 332
+  size: 174, 268
+  orig: 174, 268
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 374, 32
+  size: 168, 45
+  orig: 168, 45
+  offset: 0, 0
+  index: -1
+neck
+  rotate: 180
+  xy: 478, 165
+  size: 196, 110
+  orig: 196, 110
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 4, 170
+  size: 191, 79
+  orig: 191, 79
+  offset: 0, 0
+  index: -1

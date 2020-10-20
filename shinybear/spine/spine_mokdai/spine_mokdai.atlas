@@ -1,0 +1,293 @@
+
+spine_mokdai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor01
+  rotate: true
+  xy: 834, 722
+  size: 298, 133
+  orig: 298, 133
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 283, 765
+  size: 271, 256
+  orig: 271, 256
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 4, 657
+  size: 274, 128
+  orig: 274, 128
+  offset: 0, 0
+  index: -1
+D_Armor01
+  rotate: false
+  xy: 246, 521
+  size: 298, 133
+  orig: 298, 133
+  offset: 0, 0
+  index: -1
+D_Bottom
+  rotate: 180
+  xy: 141, 144
+  size: 274, 128
+  orig: 274, 128
+  offset: 0, 0
+  index: -1
+D_F_normal
+  rotate: false
+  xy: 512, 97
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+D_L_arm2
+  rotate: true
+  xy: 759, 555
+  size: 164, 225
+  orig: 164, 225
+  offset: 0, 0
+  index: -1
+D_L_leg2
+  rotate: true
+  xy: 249, 386
+  size: 147, 180
+  orig: 147, 180
+  offset: 0, 0
+  index: -1
+D_L_pad
+  rotate: false
+  xy: 444, 669
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+D_R_arm2
+  rotate: true
+  xy: 4, 509
+  size: 144, 186
+  orig: 144, 186
+  offset: 0, 0
+  index: -1
+D_R_foot
+  rotate: false
+  xy: 282, 660
+  size: 158, 101
+  orig: 158, 101
+  offset: 0, 0
+  index: -1
+D_R_hand
+  rotate: 180
+  xy: 733, 100
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+D_R_leg1
+  rotate: false
+  xy: 747, 271
+  size: 195, 130
+  orig: 195, 138
+  offset: 0, 0
+  index: -1
+D_R_leg2
+  rotate: false
+  xy: 644, 195
+  size: 139, 114
+  orig: 139, 114
+  offset: 0, 0
+  index: -1
+D_R_pad
+  rotate: false
+  xy: 338, 30
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+D_Upper
+  rotate: false
+  xy: 557, 790
+  size: 273, 231
+  orig: 273, 231
+  offset: 0, 0
+  index: -1
+D_glasses
+  rotate: false
+  xy: 421, 50
+  size: 125, 50
+  orig: 125, 50
+  offset: 0, 0
+  index: -1
+F_damage
+  rotate: false
+  xy: 618, 104
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+F_kiai
+  rotate: true
+  xy: 249, 65
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+F_normal
+  rotate: true
+  xy: 935, 458
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+Head
+  rotate: 270
+  xy: 586, 303
+  size: 171, 157
+  orig: 171, 157
+  offset: 0, 0
+  index: -1
+L_arm1
+  rotate: 270
+  xy: 329, 248
+  size: 136, 164
+  orig: 136, 164
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: true
+  xy: 548, 622
+  size: 164, 225
+  orig: 164, 225
+  offset: 0, 0
+  index: -1
+L_earphone
+  rotate: false
+  xy: 615, 23
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 871, 96
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 374, 107
+  size: 134, 91
+  orig: 134, 91
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: true
+  xy: 426, 340
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: true
+  xy: 746, 404
+  size: 147, 180
+  orig: 147, 180
+  offset: 0, 0
+  index: -1
+L_pad
+  rotate: true
+  xy: 809, 27
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: 270
+  xy: 853, 183
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: true
+  xy: 158, 262
+  size: 144, 165
+  orig: 144, 186
+  offset: 0, 0
+  index: -1
+R_arm3
+  rotate: false
+  xy: 930, 336
+  size: 83, 118
+  orig: 83, 118
+  offset: 0, 0
+  index: -1
+R_earphone
+  rotate: false
+  xy: 802, 952
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: 180
+  xy: 4, 135
+  size: 158, 94
+  orig: 158, 101
+  offset: 0, 7
+  index: -1
+R_hand
+  rotate: false
+  xy: 497, 185
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: false
+  xy: 548, 480
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 4, 245
+  size: 139, 114
+  orig: 139, 114
+  offset: 0, 0
+  index: -1
+R_pad
+  rotate: false
+  xy: 165, 85
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: 180
+  xy: 14, 363
+  size: 230, 177
+  orig: 230, 177
+  offset: 0, 0
+  index: -1
+Upper
+  rotate: false
+  xy: 4, 789
+  size: 275, 231
+  orig: 275, 231
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 4, 80
+  size: 125, 50
+  orig: 125, 50
+  offset: 0, 0
+  index: -1

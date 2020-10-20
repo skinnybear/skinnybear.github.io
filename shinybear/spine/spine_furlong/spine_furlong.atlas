@@ -1,0 +1,419 @@
+
+spine_furlong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Attack
+  rotate: true
+  xy: 263, 155
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+F_Damage
+  rotate: true
+  xy: 350, 156
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+F_Damage_2
+  rotate: true
+  xy: 313, 454
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+F_Normal
+  rotate: true
+  xy: 490, 160
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+LArm01
+  rotate: true
+  xy: 624, 274
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+LArm02
+  rotate: 270
+  xy: 693, 366
+  size: 167, 100
+  orig: 167, 100
+  offset: 0, 0
+  index: -1
+LArm03
+  rotate: false
+  xy: 70, 677
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+LLeg01
+  rotate: true
+  xy: 2, 465
+  size: 124, 189
+  orig: 124, 189
+  offset: 0, 0
+  index: -1
+LLeg02
+  rotate: 270
+  xy: 789, 535
+  size: 104, 215
+  orig: 104, 215
+  offset: 0, 0
+  index: -1
+LLeg03
+  rotate: 270
+  xy: 910, 256
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+LLeg_charm
+  rotate: true
+  xy: 953, 366
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 977, 614
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+Lshoulder01
+  rotate: false
+  xy: 545, 418
+  size: 147, 125
+  orig: 147, 125
+  offset: 0, 0
+  index: -1
+Lshoulder02
+  rotate: false
+  xy: 903, 170
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+RArm01
+  rotate: true
+  xy: 407, 202
+  size: 77, 107
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+RArm02
+  rotate: 270
+  xy: 134, 232
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+RArm03
+  rotate: true
+  xy: 679, 717
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+RLeg01
+  rotate: false
+  xy: 433, 613
+  size: 126, 168
+  orig: 126, 168
+  offset: 0, 0
+  index: -1
+RLeg02
+  rotate: true
+  xy: 173, 651
+  size: 128, 205
+  orig: 128, 205
+  offset: 0, 0
+  index: -1
+RLeg_charm
+  rotate: false
+  xy: 76, 187
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+Rshoulder01
+  rotate: 180
+  xy: 501, 320
+  size: 125, 109
+  orig: 125, 109
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 760, 637
+  size: 176, 209
+  orig: 176, 209
+  offset: 0, 0
+  index: -1
+charm
+  rotate: true
+  xy: 2, 709
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+damage_ head
+  rotate: 270
+  xy: 182, 423
+  size: 153, 132
+  orig: 153, 132
+  offset: 0, 0
+  index: -1
+damage_LArm01
+  rotate: 270
+  xy: 2, 265
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+damage_LArm02
+  rotate: false
+  xy: 2, 365
+  size: 167, 100
+  orig: 167, 100
+  offset: 0, 0
+  index: -1
+damage_LArm03
+  rotate: 270
+  xy: 204, 571
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+damage_LLeg01
+  rotate: true
+  xy: 779, 437
+  size: 124, 189
+  orig: 124, 189
+  offset: 0, 0
+  index: -1
+damage_LLeg02
+  rotate: 270
+  xy: 514, 514
+  size: 104, 215
+  orig: 104, 215
+  offset: 0, 0
+  index: -1
+damage_LLeg_charm
+  rotate: 180
+  xy: 926, 192
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+damage_L_ear
+  rotate: false
+  xy: 2, 547
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+damage_Lshoulder01
+  rotate: false
+  xy: 755, 258
+  size: 135, 105
+  orig: 135, 105
+  offset: 0, 0
+  index: -1
+damage_Lshoulder02
+  rotate: false
+  xy: 733, 518
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+damage_RArm01
+  rotate: 270
+  xy: 818, 205
+  size: 77, 107
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+damage_RArm02
+  rotate: 270
+  xy: 550, 202
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+damage_RArm03
+  rotate: true
+  xy: 674, 202
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+damage_RLeg01
+  rotate: 270
+  xy: 293, 533
+  size: 126, 168
+  orig: 126, 168
+  offset: 0, 0
+  index: -1
+damage_RLeg02
+  rotate: true
+  xy: 2, 578
+  size: 128, 205
+  orig: 128, 205
+  offset: 0, 0
+  index: -1
+damage_RLeg_charm
+  rotate: false
+  xy: 740, 172
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+damage_Rshoulder01
+  rotate: 180
+  xy: 176, 318
+  size: 125, 108
+  orig: 125, 108
+  offset: 0, 0
+  index: -1
+damage_body
+  rotate: 180
+  xy: 779, 814
+  size: 176, 209
+  orig: 176, 209
+  offset: 0, 0
+  index: -1
+damage_goggles
+  rotate: false
+  xy: 258, 211
+  size: 111, 43
+  orig: 120, 43
+  offset: 0, 0
+  index: -1
+damage_hose
+  rotate: false
+  xy: 956, 844
+  size: 60, 179
+  orig: 60, 179
+  offset: 0, 0
+  index: -1
+damage_hose2
+  rotate: 270
+  xy: 303, 358
+  size: 84, 173
+  orig: 84, 173
+  offset: 0, 0
+  index: -1
+damage_nozzle
+  rotate: false
+  xy: 325, 780
+  size: 143, 243
+  orig: 143, 243
+  offset: 0, 0
+  index: -1
+damage_tank
+  rotate: false
+  xy: 470, 788
+  size: 159, 234
+  orig: 159, 234
+  offset: 0, 0
+  index: -1
+damage_waist
+  rotate: false
+  xy: 397, 271
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: false
+  xy: 2, 198
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+ef3
+  rotate: false
+  xy: 2, 765
+  size: 175, 257
+  orig: 175, 257
+  offset: 0, 0
+  index: -1
+flame
+  rotate: false
+  xy: 129, 341
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+goggles
+  rotate: true
+  xy: 380, 668
+  size: 111, 43
+  orig: 120, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: 180
+  xy: 374, 425
+  size: 154, 134
+  orig: 154, 134
+  offset: 0, 0
+  index: -1
+hose
+  rotate: 180
+  xy: 959, 680
+  size: 60, 179
+  orig: 60, 179
+  offset: 0, 0
+  index: -1
+hose2
+  rotate: 270
+  xy: 794, 353
+  size: 84, 173
+  orig: 84, 173
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 182, 172
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+nozzle
+  rotate: false
+  xy: 179, 780
+  size: 144, 243
+  orig: 144, 243
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 270
+  xy: 561, 577
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank
+  rotate: 180
+  xy: 623, 788
+  size: 159, 234
+  orig: 159, 234
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 250, 247
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1

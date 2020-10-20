@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+
+	<title>Parallax.js | Simple Example</title>
+
+	<!-- Behavioral Meta Data -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="styles.css"/>
+
+</head>
+<body>
+
+	<div id="container" class="container">
+		<div id="scene" class="scene">
+			<div data-depth="1.00"><img src="images/bg_orientcitycenter_night.png" height="100%"></div>
+			<div data-depth="0.75"><img src="images/fg_kaibutsuAdultFire_h01.png" height="500px" style="position: absolute; top: 400px;left: 3px;"></div>
+			<div data-depth="0.60"><img src="images/fg_goro_h02.png" height="300px" style="position: absolute; top: 2px;left: 400px;"></div>
+			<div data-depth="0.45"><img src="images/fg_gomeisa_h01c.png" height="300px"style="position: absolute; top: 300px;left: 600px;"></div>
+			<div data-depth="0.30"><img src="images/fg_furlong_h02.png" height="300px" style="position: absolute; top: 400px;left: 300px;"></div>
+			<div data-depth="0.15"><img src="images/fg_alchiba_h02.png" height="300px" style="position: absolute; top: 500px;left: 700px;"></div>
+			<div data-depth="0.00"><img src="images/fg_akashi_h02.png" height="300px" style="position: absolute; top: 600px;left: 400px;"></div>
+		</div>
+	</div>
+
+	<!-- Scripts -->
+	<script src="./parallax.js"></script>
+	<script>
+
+	// Pretty simple huh?
+	var scene = document.getElementById('scene');
+	var parallax = new Parallax(scene);
+
+	</script>
+
+</body>
+</html>

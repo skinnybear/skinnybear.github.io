@@ -1,0 +1,566 @@
+
+spine_kouki.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Attack
+  rotate: false
+  xy: 67, 26
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+F_Damage
+  rotate: false
+  xy: 800, 59
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+F_Damage_2
+  rotate: false
+  xy: 722, 59
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+F_Normal
+  rotate: false
+  xy: 104, 171
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+Frisbee
+  rotate: false
+  xy: 888, 969
+  size: 123, 51
+  orig: 123, 51
+  offset: 0, 0
+  index: -1
+LArm01
+  rotate: true
+  xy: 765, 121
+  size: 59, 115
+  orig: 59, 115
+  offset: 0, 0
+  index: -1
+LArm02
+  rotate: true
+  xy: 104, 91
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+LArm03
+  rotate: false
+  xy: 280, 422
+  size: 41, 85
+  orig: 41, 85
+  offset: 0, 0
+  index: -1
+LLeg01
+  rotate: true
+  xy: 618, 247
+  size: 111, 169
+  orig: 111, 169
+  offset: 0, 0
+  index: -1
+LLeg02
+  rotate: true
+  xy: 4, 230
+  size: 72, 172
+  orig: 72, 172
+  offset: 0, 0
+  index: -1
+LLeg03
+  rotate: true
+  xy: 262, 79
+  size: 89, 102
+  orig: 89, 102
+  offset: 0, 0
+  index: -1
+L_Tsubame
+  rotate: true
+  xy: 541, 642
+  size: 184, 230
+  orig: 184, 230
+  offset: 0, 0
+  index: -1
+RArm01
+  rotate: false
+  xy: 451, 710
+  size: 74, 114
+  orig: 74, 114
+  offset: 0, 0
+  index: -1
+RArm02
+  rotate: true
+  xy: 258, 29
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+RArm03
+  rotate: false
+  xy: 480, 32
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+RLeg01
+  rotate: 270
+  xy: 848, 224
+  size: 86, 172
+  orig: 86, 172
+  offset: 0, 0
+  index: -1
+RLeg02
+  rotate: true
+  xy: 716, 972
+  size: 49, 169
+  orig: 49, 169
+  offset: 0, 0
+  index: -1
+RLeg03
+  rotate: true
+  xy: 551, 145
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+R_Tsubame
+  rotate: true
+  xy: 421, 553
+  size: 129, 236
+  orig: 129, 236
+  offset: 0, 0
+  index: -1
+Sirius_Attack
+  rotate: false
+  xy: 350, 992
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+Sirius_Collar_back
+  rotate: false
+  xy: 822, 397
+  size: 165, 100
+  orig: 165, 100
+  offset: 0, 0
+  index: -1
+Sirius_Collar_front
+  rotate: false
+  xy: 793, 638
+  size: 188, 126
+  orig: 188, 126
+  offset: 0, 0
+  index: -1
+Sirius_Damage
+  rotate: false
+  xy: 134, 735
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Sirius_F_Normal
+  rotate: false
+  xy: 207, 795
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+Sirius_Jacket
+  rotate: 180
+  xy: 691, 767
+  size: 329, 196
+  orig: 329, 196
+  offset: 0, 0
+  index: -1
+Sirius_Jacket_back
+  rotate: false
+  xy: 1004, 719
+  size: 16, 53
+  orig: 16, 53
+  offset: 0, 0
+  index: -1
+Sirius_LArm01
+  rotate: true
+  xy: 450, 311
+  size: 88, 164
+  orig: 88, 164
+  offset: 0, 0
+  index: -1
+Sirius_LArm02
+  rotate: false
+  xy: 647, 62
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+Sirius_LArm02_Brown
+  rotate: false
+  xy: 985, 922
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+Sirius_LArm03
+  rotate: false
+  xy: 706, 782
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Sirius_Leg01
+  rotate: false
+  xy: 137, 388
+  size: 139, 119
+  orig: 139, 119
+  offset: 0, 0
+  index: -1
+Sirius_Leg02
+  rotate: false
+  xy: 4, 75
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+Sirius_Leg03
+  rotate: false
+  xy: 369, 27
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+Sirius_RArm01
+  rotate: true
+  xy: 4, 305
+  size: 79, 147
+  orig: 79, 147
+  offset: 0, 0
+  index: -1
+Sirius_RArm02
+  rotate: false
+  xy: 876, 28
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Sirius_RArm02_Brown
+  rotate: false
+  xy: 517, 785
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+Sirius_RArm03
+  rotate: false
+  xy: 177, 651
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Sirius_Reg01
+  rotate: true
+  xy: 522, 403
+  size: 146, 125
+  orig: 146, 125
+  offset: 0, 0
+  index: -1
+Sirius_Reg02
+  rotate: false
+  xy: 954, 314
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+Sirius_Reg03
+  rotate: true
+  xy: 965, 28
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+Sirius_body
+  rotate: false
+  xy: 4, 826
+  size: 354, 194
+  orig: 354, 194
+  offset: 0, 0
+  index: -1
+Sirius_chin
+  rotate: false
+  xy: 354, 836
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+Sirius_chin_Brown
+  rotate: false
+  xy: 989, 888
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Sirius_ear
+  rotate: 270
+  xy: 284, 569
+  size: 90, 133
+  orig: 90, 133
+  offset: 0, 0
+  index: -1
+Sirius_hat
+  rotate: false
+  xy: 179, 170
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+Sirius_head
+  rotate: false
+  xy: 280, 323
+  size: 166, 88
+  orig: 166, 88
+  offset: 0, 0
+  index: -1
+Sirius_neck
+  rotate: true
+  xy: 661, 491
+  size: 143, 157
+  orig: 143, 157
+  offset: 0, 0
+  index: -1
+Sirius_tail
+  rotate: false
+  xy: 464, 189
+  size: 203, 106
+  orig: 203, 106
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 641, 128
+  size: 119, 74
+  orig: 119, 74
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 828, 502
+  size: 134, 191
+  orig: 134, 191
+  offset: 0, 0
+  index: -1
+damage_LArm01_hanten
+  rotate: true
+  xy: 369, 72
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+damage_LArm02
+  rotate: true
+  xy: 900, 75
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+damage_LArm03
+  rotate: false
+  xy: 748, 662
+  size: 41, 85
+  orig: 41, 85
+  offset: 0, 0
+  index: -1
+damage_LLeg01
+  rotate: true
+  xy: 155, 245
+  size: 111, 169
+  orig: 111, 169
+  offset: 0, 0
+  index: -1
+damage_LLeg02
+  rotate: true
+  xy: 682, 183
+  size: 71, 172
+  orig: 71, 172
+  offset: 0, 0
+  index: -1
+damage_L_Tsubame
+  rotate: 270
+  xy: 96, 512
+  size: 151, 210
+  orig: 151, 210
+  offset: 0, 0
+  index: -1
+damage_RArm01
+  rotate: true
+  xy: 518, 72
+  size: 74, 114
+  orig: 74, 114
+  offset: 0, 0
+  index: -1
+damage_RLeg01
+  rotate: true
+  xy: 324, 222
+  size: 86, 172
+  orig: 86, 172
+  offset: 0, 0
+  index: -1
+damage_RLeg03
+  rotate: true
+  xy: 925, 141
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+damage_R_Tsubame
+  rotate: 180
+  xy: 4, 415
+  size: 129, 207
+  orig: 129, 207
+  offset: 0, 0
+  index: -1
+damage_Sirius_Collar_front
+  rotate: true
+  xy: 4, 634
+  size: 188, 126
+  orig: 188, 126
+  offset: 0, 0
+  index: -1
+damage_Sirius_Jacket
+  rotate: 180
+  xy: 161, 634
+  size: 329, 196
+  orig: 329, 196
+  offset: 0, 0
+  index: -1
+damage_Sirius_LArm01
+  rotate: true
+  xy: 786, 305
+  size: 88, 164
+  orig: 88, 164
+  offset: 0, 0
+  index: -1
+damage_Sirius_Leg02
+  rotate: true
+  xy: 4, 828
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+damage_Sirius_Leg03
+  rotate: true
+  xy: 790, 238
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+damage_Sirius_RArm02
+  rotate: false
+  xy: 138, 27
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+damage_Sirius_RArm03
+  rotate: false
+  xy: 196, 336
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+damage_Sirius_Reg02
+  rotate: false
+  xy: 196, 87
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+damage_Sirius_body
+  rotate: false
+  xy: 361, 827
+  size: 354, 193
+  orig: 354, 193
+  offset: 0, 0
+  index: -1
+damage_Sirius_hat
+  rotate: false
+  xy: 4, 154
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+damage_Waist
+  rotate: 180
+  xy: 421, 111
+  size: 119, 74
+  orig: 119, 74
+  offset: 0, 0
+  index: -1
+damage_body_1
+  rotate: true
+  xy: 326, 416
+  size: 134, 191
+  orig: 134, 191
+  offset: 0, 0
+  index: -1
+damage_hat
+  rotate: false
+  xy: 574, 27
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 279, 143
+  size: 142, 94
+  orig: 142, 94
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 719, 914
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 134, 758
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 651, 359
+  size: 129, 149
+  orig: 129, 149
+  offset: 0, 0
+  index: -1
+ribbon_1
+  rotate: false
+  xy: 358, 889
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: false
+  xy: 530, 707
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+ribbon_3
+  rotate: false
+  xy: 83, 835
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

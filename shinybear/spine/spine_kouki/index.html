@@ -1,0 +1,15 @@
+<script src="https://esotericsoftware.com/files/spine-player/3.8/spine-player.js"></script>
+<link rel="stylesheet" href="https://esotericsoftware.com/files/spine-player/3.8/spine-player.css">
+
+<div id="player-container" style="width: 100%; height: 100vh;"></div>
+
+<script>
+new spine.SpinePlayer("player-container", {
+   jsonUrl: "./spine_kouki.json",
+   atlasUrl: "./spine_kouki.atlas",
+   //animation: "Idle",
+   skin: "damage", 
+   premultipliedAlpha: true,
+   backgroundColor: "#ffffff",
+});
+</script>

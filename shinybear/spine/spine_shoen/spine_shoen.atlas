@@ -1,0 +1,307 @@
+
+spine_shoen.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 538, 444
+  size: 239, 244
+  orig: 239, 244
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: true
+  xy: 585, 687
+  size: 334, 250
+  orig: 334, 250
+  offset: 0, 0
+  index: -1
+D_Body
+  rotate: false
+  xy: 781, 446
+  size: 239, 244
+  orig: 239, 244
+  offset: 0, 0
+  index: -1
+D_Bottom
+  rotate: true
+  xy: 331, 686
+  size: 334, 250
+  orig: 334, 250
+  offset: 0, 0
+  index: -1
+D_F_Normal
+  rotate: true
+  xy: 331, 385
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+D_Head
+  rotate: 180
+  xy: 561, 276
+  size: 147, 168
+  orig: 147, 168
+  offset: 0, 0
+  index: -1
+D_L_ Sleeve
+  rotate: false
+  xy: 839, 825
+  size: 128, 195
+  orig: 128, 195
+  offset: 0, 0
+  index: -1
+D_L_Arm1
+  rotate: false
+  xy: 420, 364
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+D_L_Leg
+  rotate: 270
+  xy: 703, 298
+  size: 151, 167
+  orig: 151, 167
+  offset: 0, 0
+  index: -1
+D_L_Leg_3
+  rotate: 180
+  xy: 113, 99
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+D_L_Leg__2
+  rotate: 180
+  xy: 844, 175
+  size: 135, 106
+  orig: 135, 106
+  offset: 0, 0
+  index: -1
+D_R_Hand
+  rotate: true
+  xy: 4, 106
+  size: 76, 101
+  orig: 76, 101
+  offset: 0, 0
+  index: -1
+D_R_Leg
+  rotate: false
+  xy: 4, 186
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+D_R_Leg_2
+  rotate: true
+  xy: 512, 186
+  size: 108, 122
+  orig: 108, 122
+  offset: 0, 0
+  index: -1
+D_R_Leg_3
+  rotate: false
+  xy: 239, 108
+  size: 131, 96
+  orig: 131, 96
+  offset: 0, 0
+  index: -1
+D_R_Sleeve
+  rotate: true
+  xy: 839, 710
+  size: 111, 165
+  orig: 111, 165
+  offset: 0, 0
+  index: -1
+D_Weapon
+  rotate: false
+  xy: 168, 305
+  size: 160, 715
+  orig: 160, 715
+  offset: 0, 0
+  index: -1
+D_back
+  rotate: true
+  xy: 732, 28
+  size: 64, 163
+  orig: 64, 163
+  offset: 0, 0
+  index: -1
+F_Attack
+  rotate: false
+  xy: 646, 33
+  size: 84, 80
+  orig: 90, 80
+  offset: 3, 0
+  index: -1
+F_Damage
+  rotate: true
+  xy: 839, 83
+  size: 89, 79
+  orig: 92, 79
+  offset: 2, 0
+  index: -1
+F_Normal
+  rotate: false
+  xy: 742, 96
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+Head
+  rotate: 180
+  xy: 872, 275
+  size: 147, 168
+  orig: 147, 168
+  offset: 0, 0
+  index: -1
+Headband
+  rotate: false
+  xy: 585, 692
+  size: 119, 36
+  orig: 119, 36
+  offset: 0, 0
+  index: -1
+L_ Sleeve
+  rotate: true
+  xy: 331, 248
+  size: 128, 195
+  orig: 128, 195
+  offset: 0, 0
+  index: -1
+L_Arm1
+  rotate: 270
+  xy: 690, 181
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+L_Arm2
+  rotate: false
+  xy: 615, 117
+  size: 123, 113
+  orig: 123, 113
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 70, 29
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 923, 99
+  size: 114, 97
+  orig: 114, 103
+  offset: 0, 5
+  index: -1
+L_Shoulder
+  rotate: 270
+  xy: 454, 524
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 585, 1007
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+R_Arm1
+  rotate: true
+  xy: 372, 53
+  size: 78, 130
+  orig: 78, 130
+  offset: 0, 0
+  index: -1
+R_Arm2
+  rotate: 270
+  xy: 545, 58
+  size: 92, 96
+  orig: 92, 104
+  offset: 0, 8
+  index: -1
+R_Arm3
+  rotate: false
+  xy: 440, 105
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+R_Arm4
+  rotate: false
+  xy: 919, 28
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 200, 36
+  size: 76, 101
+  orig: 76, 101
+  offset: 0, 0
+  index: -1
+R_Hand2
+  rotate: true
+  xy: 127, 216
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: 180
+  xy: 328, 170
+  size: 131, 101
+  orig: 131, 101
+  offset: 0, 0
+  index: -1
+R_Shoulder
+  rotate: false
+  xy: 971, 954
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+R_Sleeve
+  rotate: true
+  xy: 172, 190
+  size: 111, 165
+  orig: 111, 165
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 331, 482
+  size: 191, 202
+  orig: 191, 205
+  offset: 0, 3
+  index: -1
+Weapon
+  rotate: false
+  xy: 4, 305
+  size: 160, 715
+  orig: 160, 715
+  offset: 0, 0
+  index: -1
+Weapon2
+  rotate: false
+  xy: 4, 305
+  size: 160, 715
+  orig: 160, 715
+  offset: 0, 0
+  index: -1
+Weapon_Chram
+  rotate: false
+  xy: 473, 39
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1

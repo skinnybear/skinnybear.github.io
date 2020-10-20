@@ -1,0 +1,440 @@
+
+spine_digram.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body01
+  rotate: true
+  xy: 809, 589
+  size: 198, 211
+  orig: 198, 211
+  offset: 0, 0
+  index: -1
+Body02
+  rotate: false
+  xy: 4, 835
+  size: 298, 185
+  orig: 298, 185
+  offset: 0, 0
+  index: -1
+D_Body01
+  rotate: true
+  xy: 600, 581
+  size: 198, 211
+  orig: 198, 211
+  offset: 0, 0
+  index: -1
+D_Body02
+  rotate: 180
+  xy: 300, 835
+  size: 298, 185
+  orig: 298, 185
+  offset: 0, 0
+  index: -1
+D_Face_attack
+  rotate: false
+  xy: 714, 396
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+D_Face_damage
+  rotate: false
+  xy: 406, 573
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+D_Face_damage_2
+  rotate: false
+  xy: 528, 804
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+D_Head
+  rotate: 270
+  xy: 173, 177
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+D_LLeg01
+  rotate: true
+  xy: 522, 340
+  size: 115, 163
+  orig: 115, 163
+  offset: 0, 0
+  index: -1
+D_LLeg02
+  rotate: 270
+  xy: 738, 472
+  size: 139, 192
+  orig: 139, 192
+  offset: 0, 0
+  index: -1
+D_LLeg04
+  rotate: 180
+  xy: 290, 45
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+D_L_Charm01
+  rotate: 270
+  xy: 300, 116
+  size: 103, 137
+  orig: 103, 137
+  offset: 0, 0
+  index: -1
+D_L_Charm02
+  rotate: true
+  xy: 262, 681
+  size: 194, 357
+  orig: 194, 357
+  offset: 0, 0
+  index: -1
+D_Larm01
+  rotate: 270
+  xy: 541, 67
+  size: 88, 120
+  orig: 88, 120
+  offset: 0, 0
+  index: -1
+D_Larm02
+  rotate: true
+  xy: 451, 145
+  size: 97, 115
+  orig: 97, 115
+  offset: 0, 0
+  index: -1
+D_Lhand
+  rotate: false
+  xy: 959, 762
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+D_Lsholder
+  rotate: 180
+  xy: 296, 200
+  size: 161, 100
+  orig: 161, 100
+  offset: 0, 0
+  index: -1
+D_RLeg01
+  rotate: true
+  xy: 687, 286
+  size: 96, 163
+  orig: 96, 163
+  offset: 0, 0
+  index: -1
+D_RLeg02
+  rotate: 270
+  xy: 566, 440
+  size: 119, 211
+  orig: 119, 211
+  offset: 0, 0
+  index: -1
+D_RLeg03
+  rotate: 180
+  xy: 4, 723
+  size: 151, 61
+  orig: 151, 61
+  offset: 0, 0
+  index: -1
+D_R_Charm01
+  rotate: true
+  xy: 4, 94
+  size: 103, 137
+  orig: 103, 137
+  offset: 0, 0
+  index: -1
+D_R_Charm02
+  rotate: true
+  xy: 4, 527
+  size: 107, 337
+  orig: 107, 337
+  offset: 0, 0
+  index: -1
+D_Rarm01
+  rotate: true
+  xy: 870, 937
+  size: 84, 122
+  orig: 84, 122
+  offset: 0, 0
+  index: -1
+D_Rsholder
+  rotate: true
+  xy: 928, 467
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+D_Waist01
+  rotate: false
+  xy: 156, 696
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+D_Waist02
+  rotate: false
+  xy: 417, 67
+  size: 115, 80
+  orig: 115, 80
+  offset: 0, 0
+  index: -1
+D_Weapon01
+  rotate: 270
+  xy: 410, 256
+  size: 127, 142
+  orig: 127, 142
+  offset: 0, 0
+  index: -1
+D_Weapon02
+  rotate: 270
+  xy: 4, 367
+  size: 166, 246
+  orig: 166, 246
+  offset: 0, 0
+  index: -1
+D_Weapon04
+  rotate: true
+  xy: 178, 289
+  size: 162, 238
+  orig: 162, 238
+  offset: 0, 0
+  index: -1
+Face_attack
+  rotate: false
+  xy: 425, 981
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Face_damage
+  rotate: false
+  xy: 765, 402
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Face_normal
+  rotate: false
+  xy: 4, 226
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Head
+  rotate: 270
+  xy: 60, 161
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+LLeg01
+  rotate: true
+  xy: 817, 354
+  size: 116, 163
+  orig: 116, 163
+  offset: 0, 0
+  index: -1
+LLeg02
+  rotate: 270
+  xy: 431, 555
+  size: 139, 206
+  orig: 139, 206
+  offset: 0, 0
+  index: -1
+LLeg03
+  rotate: false
+  xy: 568, 777
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+LLeg04
+  rotate: 180
+  xy: 880, 45
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+L_Charm01
+  rotate: true
+  xy: 777, 103
+  size: 103, 137
+  orig: 103, 137
+  offset: 0, 0
+  index: -1
+L_Charm02
+  rotate: true
+  xy: 81, 659
+  size: 194, 357
+  orig: 194, 357
+  offset: 0, 0
+  index: -1
+Larm01
+  rotate: true
+  xy: 711, 64
+  size: 88, 120
+  orig: 88, 120
+  offset: 0, 0
+  index: -1
+Larm02
+  rotate: 270
+  xy: 905, 140
+  size: 97, 115
+  orig: 97, 115
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 342, 590
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+Lhand02
+  rotate: false
+  xy: 601, 959
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+Lsholder
+  rotate: false
+  xy: 549, 210
+  size: 162, 99
+  orig: 162, 99
+  offset: 0, 0
+  index: -1
+RLeg01
+  rotate: true
+  xy: 4, 265
+  size: 96, 163
+  orig: 96, 163
+  offset: 0, 0
+  index: -1
+RLeg02
+  rotate: true
+  xy: 343, 444
+  size: 119, 211
+  orig: 119, 211
+  offset: 0, 0
+  index: -1
+RLeg03
+  rotate: 180
+  xy: 121, 59
+  size: 151, 61
+  orig: 151, 61
+  offset: 0, 0
+  index: -1
+RLeg04
+  rotate: false
+  xy: 639, 765
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+R_Charm01
+  rotate: 270
+  xy: 167, 81
+  size: 103, 137
+  orig: 103, 137
+  offset: 0, 0
+  index: -1
+R_Charm02
+  rotate: true
+  xy: 4, 608
+  size: 107, 337
+  orig: 107, 337
+  offset: 0, 0
+  index: -1
+Rarm01
+  rotate: true
+  xy: 622, 139
+  size: 84, 122
+  orig: 84, 122
+  offset: 0, 0
+  index: -1
+Rarm02
+  rotate: false
+  xy: 4, 797
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+Rsholder
+  rotate: false
+  xy: 715, 203
+  size: 142, 91
+  orig: 142, 91
+  offset: 0, 0
+  index: -1
+Waist01
+  rotate: false
+  xy: 929, 431
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+Waist02
+  rotate: 180
+  xy: 4, 465
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+Waist03
+  rotate: false
+  xy: 525, 29
+  size: 142, 48
+  orig: 142, 48
+  offset: 0, 0
+  index: -1
+Weapon01
+  rotate: true
+  xy: 851, 230
+  size: 127, 142
+  orig: 127, 142
+  offset: 0, 0
+  index: -1
+Weapon02
+  rotate: 270
+  xy: 138, 350
+  size: 166, 246
+  orig: 166, 246
+  offset: 0, 0
+  index: -1
+Weapon03
+  rotate: false
+  xy: 4, 35
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+Weapon04
+  rotate: true
+  xy: 279, 286
+  size: 162, 245
+  orig: 162, 245
+  offset: 0, 0
+  index: -1
+fx01
+  rotate: true
+  xy: 581, 809
+  size: 212, 285
+  orig: 213, 285
+  offset: 1, 0
+  index: -1
+fx02
+  rotate: 270
+  xy: 743, 756
+  size: 192, 276
+  orig: 194, 276
+  offset: 2, 0
+  index: -1

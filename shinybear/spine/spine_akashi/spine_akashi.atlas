@@ -1,0 +1,286 @@
+
+spine_akashi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_inside
+  rotate: false
+  xy: 201, 991
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+ball_outside
+  rotate: false
+  xy: 779, 497
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+damage/F_normal
+  rotate: false
+  xy: 721, 803
+  size: 60, 68
+  orig: 76, 68
+  offset: 8, 0
+  index: -1
+damage/L_arm1
+  rotate: false
+  xy: 548, 533
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+damage/L_arm2
+  rotate: true
+  xy: 424, 464
+  size: 89, 148
+  orig: 89, 148
+  offset: 0, 0
+  index: -1
+damage/L_hand
+  rotate: false
+  xy: 206, 709
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+damage/L_leg
+  rotate: false
+  xy: 756, 688
+  size: 192, 333
+  orig: 192, 333
+  offset: 0, 0
+  index: -1
+damage/L_ring
+  rotate: false
+  xy: 661, 405
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+damage/R_arm1
+  rotate: false
+  xy: 725, 874
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+normal/R_arm1
+  rotate: false
+  xy: 725, 874
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+damage/R_arm2
+  rotate: true
+  xy: 156, 419
+  size: 93, 123
+  orig: 93, 123
+  offset: 0, 0
+  index: -1
+damage/R_hand1
+  rotate: false
+  xy: 956, 429
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+normal/R_hand1
+  rotate: false
+  xy: 956, 429
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+damage/R_hand2
+  rotate: true
+  xy: 407, 401
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+damage/R_leg
+  rotate: false
+  xy: 448, 684
+  size: 164, 336
+  orig: 164, 336
+  offset: 0, 0
+  index: -1
+damage/R_ring
+  rotate: true
+  xy: 889, 626
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+damage/body
+  rotate: false
+  xy: 4, 757
+  size: 247, 264
+  orig: 247, 264
+  offset: 0, 0
+  index: -1
+damage/head
+  rotate: true
+  xy: 635, 447
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+normal/head
+  rotate: true
+  xy: 635, 447
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+damage/neck
+  rotate: true
+  xy: 569, 414
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+normal/neck
+  rotate: true
+  xy: 569, 414
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+damage/visor
+  rotate: false
+  xy: 84, 570
+  size: 89, 36
+  orig: 91, 51
+  offset: 0, 15
+  index: -1
+normal/visor
+  rotate: false
+  xy: 84, 570
+  size: 89, 36
+  orig: 91, 51
+  offset: 0, 15
+  index: -1
+damage/waist
+  rotate: 180
+  xy: 337, 564
+  size: 209, 136
+  orig: 209, 136
+  offset: 0, 0
+  index: -1
+damage/weapon
+  rotate: false
+  xy: 952, 596
+  size: 46, 425
+  orig: 46, 425
+  offset: 0, 0
+  index: -1
+normal/F_damage
+  rotate: true
+  xy: 296, 705
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+normal/F_kiai
+  rotate: true
+  xy: 4, 574
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+normal/F_normal
+  rotate: true
+  xy: 367, 710
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+normal/L_arm1
+  rotate: 180
+  xy: 838, 442
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+normal/L_arm2
+  rotate: true
+  xy: 4, 423
+  size: 89, 148
+  orig: 89, 148
+  offset: 0, 0
+  index: -1
+normal/L_hand
+  rotate: false
+  xy: 751, 410
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+normal/L_leg
+  rotate: true
+  xy: 4, 583
+  size: 192, 333
+  orig: 192, 333
+  offset: 0, 0
+  index: -1
+normal/L_ring
+  rotate: true
+  xy: 906, 700
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+normal/R_arm2
+  rotate: true
+  xy: 282, 419
+  size: 93, 123
+  orig: 93, 123
+  offset: 0, 0
+  index: -1
+normal/R_hand2
+  rotate: true
+  xy: 471, 401
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+normal/R_leg
+  rotate: 180
+  xy: 588, 684
+  size: 164, 336
+  orig: 164, 336
+  offset: 0, 0
+  index: -1
+normal/R_ring
+  rotate: 180
+  xy: 882, 405
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+normal/body
+  rotate: 180
+  xy: 238, 757
+  size: 247, 264
+  orig: 247, 264
+  offset: 0, 0
+  index: -1
+normal/waist
+  rotate: false
+  xy: 689, 554
+  size: 209, 136
+  orig: 209, 136
+  offset: 0, 0
+  index: -1
+normal/weapon
+  rotate: true
+  xy: 4, 515
+  size: 46, 425
+  orig: 46, 425
+  offset: 0, 0
+  index: -1

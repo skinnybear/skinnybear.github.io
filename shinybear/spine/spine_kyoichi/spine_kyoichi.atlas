@@ -1,0 +1,307 @@
+
+spine_kyoichi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 783, 751
+  size: 228, 271
+  orig: 228, 271
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 645, 316
+  size: 196, 126
+  orig: 196, 126
+  offset: 0, 0
+  index: -1
+D_Body
+  rotate: false
+  xy: 553, 751
+  size: 228, 271
+  orig: 228, 271
+  offset: 0, 0
+  index: -1
+D_Bottom
+  rotate: false
+  xy: 260, 387
+  size: 196, 126
+  orig: 196, 126
+  offset: 0, 0
+  index: -1
+D_F_Normal
+  rotate: false
+  xy: 2, 686
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+D_L_Arm
+  rotate: true
+  xy: 458, 318
+  size: 109, 166
+  orig: 109, 166
+  offset: 0, 0
+  index: -1
+D_L_Arm3
+  rotate: false
+  xy: 458, 431
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+D_L_Leg
+  rotate: true
+  xy: 452, 578
+  size: 171, 257
+  orig: 171, 257
+  offset: 0, 0
+  index: -1
+D_L_Leg2
+  rotate: false
+  xy: 552, 429
+  size: 139, 147
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+D_L_Leg3
+  rotate: false
+  xy: 177, 179
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+D_R_Arm
+  rotate: true
+  xy: 451, 223
+  size: 93, 145
+  orig: 93, 145
+  offset: 0, 0
+  index: -1
+D_R_Arm_B
+  rotate: 270
+  xy: 318, 243
+  size: 142, 132
+  orig: 142, 132
+  offset: 0, 0
+  index: -1
+D_R_Arm_B2
+  rotate: false
+  xy: 552, 116
+  size: 107, 126
+  orig: 107, 126
+  offset: 0, 0
+  index: -1
+D_R_Arm_B3
+  rotate: true
+  xy: 77, 96
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+R_Arm_B3
+  rotate: true
+  xy: 77, 96
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+D_R_Leg
+  rotate: true
+  xy: 711, 613
+  size: 136, 264
+  orig: 136, 264
+  offset: 0, 0
+  index: -1
+D_R_Leg2
+  rotate: true
+  xy: 843, 369
+  size: 111, 179
+  orig: 111, 179
+  offset: 0, 0
+  index: -1
+D_charm
+  rotate: false
+  xy: 960, 82
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+D_charm3
+  rotate: false
+  xy: 971, 961
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+D_visor
+  rotate: false
+  xy: 632, 104
+  size: 102, 41
+  orig: 102, 41
+  offset: 0, 0
+  index: -1
+D_weapon
+  rotate: false
+  xy: 2, 761
+  size: 549, 261
+  orig: 549, 261
+  offset: 0, 0
+  index: -1
+F_Attack
+  rotate: false
+  xy: 163, 102
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+F_Damage
+  rotate: false
+  xy: 765, 101
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+F_Normal
+  rotate: true
+  xy: 2, 97
+  size: 73, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 176, 267
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 277, 652
+  size: 109, 166
+  orig: 109, 166
+  offset: 0, 0
+  index: -1
+L_Arm2
+  rotate: true
+  xy: 602, 238
+  size: 82, 157
+  orig: 82, 157
+  offset: 0, 0
+  index: -1
+L_Arm3
+  rotate: 270
+  xy: 956, 535
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: 270
+  xy: 2, 419
+  size: 171, 257
+  orig: 171, 257
+  offset: 0, 0
+  index: -1
+L_Leg2
+  rotate: true
+  xy: 2, 340
+  size: 145, 176
+  orig: 145, 177
+  offset: 0, 0
+  index: -1
+L_Leg3
+  rotate: 180
+  xy: 288, 102
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 30, 162
+  size: 93, 145
+  orig: 93, 145
+  offset: 0, 0
+  index: -1
+R_Arm2
+  rotate: true
+  xy: 671, 148
+  size: 111, 142
+  orig: 111, 142
+  offset: 0, 0
+  index: -1
+R_Arm3
+  rotate: true
+  xy: 880, 96
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+R_Arm_B
+  rotate: false
+  xy: 823, 235
+  size: 142, 132
+  orig: 142, 132
+  offset: 0, 0
+  index: -1
+R_Arm_B2
+  rotate: false
+  xy: 432, 95
+  size: 107, 126
+  orig: 107, 126
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 695, 476
+  size: 136, 264
+  orig: 136, 264
+  offset: 0, 0
+  index: -1
+R_Leg2
+  rotate: true
+  xy: 2, 253
+  size: 111, 179
+  orig: 111, 179
+  offset: 0, 0
+  index: -1
+R_Leg3
+  rotate: false
+  xy: 299, 161
+  size: 149, 81
+  orig: 149, 81
+  offset: 0, 0
+  index: -1
+charm
+  rotate: false
+  xy: 961, 768
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+charm2
+  rotate: false
+  xy: 811, 140
+  size: 211, 142
+  orig: 211, 142
+  offset: 0, 0
+  index: -1
+visor
+  rotate: false
+  xy: 918, 327
+  size: 102, 41
+  orig: 102, 41
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 498
+  size: 549, 261
+  orig: 549, 261
+  offset: 0, 0
+  index: -1

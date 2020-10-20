@@ -1,0 +1,244 @@
+
+spine_narihito.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 793, 613
+  size: 227, 251
+  orig: 227, 251
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: 180
+  xy: 4, 144
+  size: 215, 99
+  orig: 215, 99
+  offset: 0, 0
+  index: -1
+Charm
+  rotate: false
+  xy: 413, 553
+  size: 405, 467
+  orig: 405, 467
+  offset: 0, 0
+  index: -1
+D_Body
+  rotate: 270
+  xy: 636, 410
+  size: 227, 251
+  orig: 227, 251
+  offset: 0, 0
+  index: -1
+D_Body3
+  rotate: false
+  xy: 800, 196
+  size: 215, 99
+  orig: 215, 99
+  offset: 0, 0
+  index: -1
+D_Charm
+  rotate: false
+  xy: 4, 553
+  size: 405, 467
+  orig: 405, 467
+  offset: 0, 0
+  index: -1
+D_F_Normal
+  rotate: false
+  xy: 192, 57
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+D_Head
+  rotate: 270
+  xy: 185, 170
+  size: 119, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+D_LArm
+  rotate: false
+  xy: 822, 876
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+D_LArm2
+  rotate: false
+  xy: 715, 267
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+D_LLeg
+  rotate: true
+  xy: 4, 396
+  size: 153, 210
+  orig: 153, 210
+  offset: 0, 0
+  index: -1
+D_LLeg2
+  rotate: 270
+  xy: 119, 285
+  size: 108, 201
+  orig: 108, 201
+  offset: 0, 0
+  index: -1
+D_RArm
+  rotate: true
+  xy: 731, 129
+  size: 80, 155
+  orig: 80, 155
+  offset: 0, 0
+  index: -1
+D_RArm2
+  rotate: true
+  xy: 882, 96
+  size: 59, 138
+  orig: 59, 138
+  offset: 0, 0
+  index: -1
+D_RLeg
+  rotate: false
+  xy: 891, 415
+  size: 119, 194
+  orig: 119, 194
+  offset: 0, 0
+  index: -1
+D_RLeg2
+  rotate: true
+  xy: 823, 298
+  size: 113, 178
+  orig: 113, 178
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 638, 157
+  size: 119, 134
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+LArm
+  rotate: true
+  xy: 490, 192
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+LArm2
+  rotate: 270
+  xy: 418, 120
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+LArm3
+  rotate: false
+  xy: 672, 951
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: true
+  xy: 501, 298
+  size: 153, 210
+  orig: 153, 210
+  offset: 0, 0
+  index: -1
+LLeg2
+  rotate: true
+  xy: 4, 257
+  size: 108, 201
+  orig: 108, 201
+  offset: 0, 0
+  index: -1
+LLeg3
+  rotate: true
+  xy: 744, 57
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+N_F_Attack
+  rotate: true
+  xy: 380, 57
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+N_F_Damage
+  rotate: true
+  xy: 4, 58
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+N_F_Normal
+  rotate: false
+  xy: 500, 58
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: 270
+  xy: 260, 106
+  size: 80, 155
+  orig: 80, 155
+  offset: 0, 0
+  index: -1
+RArm2
+  rotate: false
+  xy: 413, 599
+  size: 59, 138
+  orig: 59, 138
+  offset: 0, 0
+  index: -1
+RArm3
+  rotate: false
+  xy: 971, 944
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: true
+  xy: 303, 300
+  size: 117, 194
+  orig: 119, 194
+  offset: 2, 0
+  index: -1
+RLeg2
+  rotate: true
+  xy: 309, 194
+  size: 113, 178
+  orig: 113, 178
+  offset: 0, 0
+  index: -1
+RLeg3
+  rotate: 180
+  xy: 557, 109
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: 180
+  xy: 29, 63
+  size: 161, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: 270
+  xy: 254, 399
+  size: 178, 337
+  orig: 178, 337
+  offset: 0, 0
+  index: -1

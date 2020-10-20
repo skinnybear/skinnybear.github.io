@@ -1,0 +1,251 @@
+
+spine_victom.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 367
+  size: 243, 285
+  orig: 243, 285
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: true
+  xy: 674, 368
+  size: 127, 83
+  orig: 127, 83
+  offset: 0, 0
+  index: -1
+D_Body
+  rotate: false
+  xy: 2, 653
+  size: 243, 285
+  orig: 243, 285
+  offset: 0, 0
+  index: -1
+D_F_Normal
+  rotate: false
+  xy: 518, 707
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+D_LArm
+  rotate: false
+  xy: 285, 41
+  size: 127, 214
+  orig: 127, 214
+  offset: 0, 0
+  index: -1
+D_LArm2
+  rotate: true
+  xy: 414, 3
+  size: 136, 163
+  orig: 136, 163
+  offset: 0, 0
+  index: -1
+D_LLeg
+  rotate: false
+  xy: 247, 449
+  size: 163, 252
+  orig: 163, 252
+  offset: 0, 0
+  index: -1
+D_LLeg2
+  rotate: true
+  xy: 2, 203
+  size: 162, 281
+  orig: 162, 281
+  offset: 0, 0
+  index: -1
+D_RArm2
+  rotate: false
+  xy: 515, 747
+  size: 94, 191
+  orig: 94, 191
+  offset: 0, 0
+  index: -1
+D_RLeg
+  rotate: false
+  xy: 247, 702
+  size: 156, 236
+  orig: 156, 236
+  offset: 0, 0
+  index: -1
+D_RLeg2
+  rotate: true
+  xy: 2, 52
+  size: 149, 281
+  orig: 149, 281
+  offset: 0, 0
+  index: -1
+D_Shoulder
+  rotate: false
+  xy: 684, 513
+  size: 49, 108
+  orig: 49, 108
+  offset: 0, 0
+  index: -1
+Head
+  rotate: 180
+  xy: 542, 535
+  size: 127, 142
+  orig: 127, 142
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: 180
+  xy: 691, 714
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+Head3
+  rotate: false
+  xy: 617, 868
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+Head4
+  rotate: false
+  xy: 199, 618
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+LArm
+  rotate: 180
+  xy: 520, 141
+  size: 117, 214
+  orig: 127, 214
+  offset: 0, 0
+  index: -1
+LArm2
+  rotate: 180
+  xy: 558, 384
+  size: 136, 163
+  orig: 136, 163
+  offset: 0, 0
+  index: -1
+LArm3
+  rotate: false
+  xy: 664, 818
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+LArm3_2
+  rotate: false
+  xy: 696, 4
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: false
+  xy: 285, 257
+  size: 163, 252
+  orig: 163, 252
+  offset: 0, 0
+  index: -1
+LLeg2
+  rotate: false
+  xy: 414, 141
+  size: 162, 281
+  orig: 162, 281
+  offset: 0, 0
+  index: -1
+N_F_Attack
+  rotate: false
+  xy: 283, 678
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+N_F_Damage
+  rotate: false
+  xy: 200, 609
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+N_F_Normal
+  rotate: false
+  xy: 200, 596
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: 180
+  xy: 622, 210
+  size: 87, 173
+  orig: 87, 173
+  offset: 0, 0
+  index: -1
+RArm2
+  rotate: false
+  xy: 611, 679
+  size: 94, 191
+  orig: 94, 191
+  offset: 0, 0
+  index: -1
+RArm3
+  rotate: false
+  xy: 655, 623
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: 180
+  xy: 403, 424
+  size: 156, 236
+  orig: 156, 236
+  offset: 0, 0
+  index: -1
+RLeg2
+  rotate: 180
+  xy: 405, 658
+  size: 149, 281
+  orig: 149, 281
+  offset: 0, 0
+  index: -1
+Shoulder
+  rotate: false
+  xy: 702, 264
+  size: 49, 108
+  orig: 49, 108
+  offset: 0, 0
+  index: -1
+Shoulder2
+  rotate: false
+  xy: 247, 381
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: true
+  xy: 579, 6
+  size: 136, 117
+  orig: 136, 117
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 2, 8
+  size: 174, 43
+  orig: 174, 43
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 641, 104
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1

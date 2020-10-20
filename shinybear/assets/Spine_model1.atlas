@@ -1,0 +1,153 @@
+
+Spine_model1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 2, 66
+  size: 108, 148
+  orig: 108, 148
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 430, 232
+  size: 80, 155
+  orig: 80, 155
+  offset: 0, 0
+  index: -1
+L_ring
+  rotate: false
+  xy: 2, 283
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: 270
+  xy: 233, 64
+  size: 108, 148
+  orig: 108, 148
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 2, 204
+  size: 71, 154
+  orig: 71, 154
+  offset: 0, 0
+  index: -1
+R_ring
+  rotate: false
+  xy: 339, 89
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+ball_mawari
+  rotate: false
+  xy: 467, 428
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+ball_nakami
+  rotate: false
+  xy: 288, 488
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+belt
+  rotate: 180
+  xy: 120, 121
+  size: 157, 43
+  orig: 157, 43
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 312
+  size: 149, 199
+  orig: 149, 199
+  offset: 0, 0
+  index: -1
+face01
+  rotate: 270
+  xy: 421, 54
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+face02
+  rotate: false
+  xy: 134, 254
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+face03
+  rotate: true
+  xy: 269, 248
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+face04
+  rotate: true
+  xy: 384, 144
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+face_base
+  rotate: false
+  xy: 151, 351
+  size: 151, 160
+  orig: 151, 160
+  offset: 0, 0
+  index: -1
+glass
+  rotate: 180
+  xy: 216, 188
+  size: 166, 63
+  orig: 166, 63
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 304, 361
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+hair_base
+  rotate: 270
+  xy: 299, 322
+  size: 188, 166
+  orig: 188, 166
+  offset: 0, 0
+  index: -1
+mimi
+  rotate: false
+  xy: 375, 273
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 453, 470
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 52, 160
+  size: 37, 285
+  orig: 37, 285
+  offset: 0, 0
+  index: -1
