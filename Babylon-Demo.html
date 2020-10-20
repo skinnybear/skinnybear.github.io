@@ -103,7 +103,9 @@
 
     // Now create a basic Babylon Scene object 
     var scene = new BABYLON.Scene(engine);
-
+	
+	scene.clearColor = new BABYLON.Color4(0, 0, 0, 0);
+	
     // This creates and positions a free camera
     var camera = new BABYLON.FreeCamera("camera1", new BABYLON.Vector3(0, 0, -30), scene);
 
