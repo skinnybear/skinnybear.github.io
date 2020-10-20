@@ -8,6 +8,7 @@ if __name__== "__main__":
 
     readBytes = None
     with open(sys.argv[1], mode='rb') as file: # b is important -> binary
+        readBytes = file.read()
     
     outputStr = base64.encodestring(readBytes)
 
