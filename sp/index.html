@@ -1,0 +1,11 @@
+<script src="http://esotericsoftware.com/files/spine-player/3.8/spine-player.js"></script>
+<link rel="stylesheet" href="http://esotericsoftware.com/files/spine-player/3.8/spine-player.css">
+
+<div id="player-container" style="width: 100%; height: 100vh;"></div>
+
+<script>
+new spine.SpinePlayer("player-container", {
+	jsonUrl: "./skeleton.json",
+	atlasUrl: "./skeleton.atlas"
+});
+</script>
