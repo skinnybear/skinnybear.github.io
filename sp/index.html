@@ -7,7 +7,24 @@
 new spine.SpinePlayer("player-container", {
 	jsonUrl: "./skeleton.json",
 	atlasUrl: "./skeleton.atlas",
-	animation: "animation",
-	premultipliedAlpha: true
+	animation: "idel",
+	premultipliedAlpha: true,
+	viewport: {
+    animations: {
+       "idel": {
+         padTop: "5%",
+       },
+       "zoom": {
+         x: -75,
+         y: 300,
+         width: 300,
+         height: 300,
+         padLeft: "5%",
+         padRight: "5%",
+         padTop: "5%",
+         padBottom: "5%"
+       }
+    }
+ }
 });
 </script>

@@ -1,68 +1,47 @@
 
 skeleton.png
-size: 1744,906
+size: 957,541
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 chest-hand
   rotate: true
-  xy: 1386, 21
+  xy: 609, 65
   size: 474, 346
   orig: 474, 904
   offset: 0, 507
   index: -1
-clothes
-  rotate: true
-  xy: 946, 40
-  size: 455, 438
-  orig: 474, 904
-  offset: 4, 343
-  index: -1
 face01
-  rotate: true
-  xy: 1647, 660
+  rotate: false
+  xy: 489, 35
   size: 103, 95
   orig: 227, 190
   offset: 104, 30
   index: -1
 face02
   rotate: false
-  xy: 1553, 530
+  xy: 207, 2
   size: 139, 128
   orig: 227, 190
   offset: 67, 4
   index: -1
-fg_ded01b_skin8
-  rotate: false
-  xy: 2, 2
-  size: 470, 902
-  orig: 474, 904
-  offset: 2, 1
-  index: -1
-fg_ded01c_skin6
-  rotate: false
-  xy: 474, 2
-  size: 470, 902
-  orig: 474, 904
-  offset: 2, 1
-  index: -1
 hair-top
-  rotate: true
-  xy: 1647, 765
+  rotate: false
+  xy: 348, 59
   size: 139, 71
   orig: 227, 190
   offset: 65, 100
   index: -1
 halo
-  rotate: true
-  xy: 1553, 701
+  rotate: false
+  xy: 2, 38
   size: 203, 92
   orig: 227, 190
   offset: 23, 98
   index: -1
 lower
   rotate: true
-  xy: 946, 497
+  xy: 2, 132
   size: 407, 605
   orig: 474, 904
   offset: 35, 0
