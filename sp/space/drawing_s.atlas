@@ -1,0 +1,111 @@
+
+drawing_s.png
+size: 6961,3015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 24
+  rotate: true
+  xy: 6750, 565
+  size: 174, 89
+  orig: 174, 89
+  offset: 0, 0
+  index: -1
+armour
+  rotate: false
+  xy: 5828, 741
+  size: 1065, 848
+  orig: 1065, 872
+  offset: 0, 24
+  index: -1
+butt
+  rotate: false
+  xy: 2, 7
+  size: 445, 193
+  orig: 446, 200
+  offset: 0, 7
+  index: -1
+clothes
+  rotate: false
+  xy: 3985, 889
+  size: 1506, 845
+  orig: 1506, 845
+  offset: 0, 0
+  index: -1
+eye_reflections
+  rotate: true
+  xy: 6895, 1435
+  size: 154, 29
+  orig: 156, 31
+  offset: 1, 1
+  index: -1
+eyebase
+  rotate: false
+  xy: 5828, 1619
+  size: 228, 115
+  orig: 228, 115
+  offset: 0, 0
+  index: -1
+galexy
+  rotate: true
+  xy: 6093, 1591
+  size: 1422, 866
+  orig: 1422, 866
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 5210, 356
+  size: 456, 616
+  orig: 456, 616
+  offset: 0, 0
+  index: -1
+legs
+  rotate: false
+  xy: 3985, 2
+  size: 1223, 885
+  orig: 1223, 885
+  offset: 0, 0
+  index: -1
+room
+  rotate: false
+  xy: 2, 202
+  size: 3981, 2811
+  orig: 3981, 2811
+  offset: 0, 0
+  index: -1
+tattoo_base
+  rotate: false
+  xy: 5493, 814
+  size: 333, 920
+  orig: 333, 920
+  offset: 0, 0
+  index: -1
+tattoo_base2
+  rotate: true
+  xy: 5828, 71
+  size: 333, 919
+  orig: 333, 920
+  offset: 0, 1
+  index: -1
+tattoo_base3
+  rotate: true
+  xy: 5828, 406
+  size: 333, 920
+  orig: 333, 920
+  offset: 0, 0
+  index: -1
+tattoo_glow
+  rotate: false
+  xy: 5210, 194
+  size: 158, 160
+  orig: 201, 202
+  offset: 21, 20
+  index: -1
+torso
+  rotate: false
+  xy: 3985, 1736
+  size: 2106, 1277
+  orig: 2106, 1277
+  offset: 0, 0
+  index: -1
