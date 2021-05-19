@@ -1,111 +1,111 @@
 
 drawing_s.png
-size: 6961,3015
+size: 3363,2224
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Layer 24
   rotate: true
-  xy: 6750, 565
-  size: 174, 89
-  orig: 174, 89
+  xy: 2305, 63
+  size: 104, 53
+  orig: 104, 53
   offset: 0, 0
   index: -1
 armour
   rotate: false
-  xy: 5828, 741
-  size: 1065, 848
-  orig: 1065, 872
-  offset: 0, 24
+  xy: 1593, 24
+  size: 639, 509
+  orig: 639, 523
+  offset: 0, 14
   index: -1
 butt
-  rotate: false
-  xy: 2, 7
-  size: 445, 193
-  orig: 446, 200
-  offset: 0, 7
+  rotate: true
+  xy: 2234, 265
+  size: 268, 116
+  orig: 268, 120
+  offset: 0, 4
   index: -1
 clothes
-  rotate: false
-  xy: 3985, 889
-  size: 1506, 845
-  orig: 1506, 845
+  rotate: true
+  xy: 2393, 54
+  size: 903, 507
+  orig: 903, 507
   offset: 0, 0
   index: -1
 eye_reflections
   rotate: true
-  xy: 6895, 1435
-  size: 154, 29
-  orig: 156, 31
-  offset: 1, 1
+  xy: 2330, 169
+  size: 94, 19
+  orig: 94, 19
+  offset: 0, 0
   index: -1
 eyebase
-  rotate: false
-  xy: 5828, 1619
-  size: 228, 115
-  orig: 228, 115
+  rotate: true
+  xy: 2234, 30
+  size: 137, 69
+  orig: 137, 69
   offset: 0, 0
   index: -1
 galexy
-  rotate: true
-  xy: 6093, 1591
-  size: 1422, 866
-  orig: 1422, 866
+  rotate: false
+  xy: 738, 14
+  size: 853, 519
+  orig: 853, 519
   offset: 0, 0
   index: -1
 head
-  rotate: true
-  xy: 5210, 356
-  size: 456, 616
-  orig: 456, 616
+  rotate: false
+  xy: 2902, 588
+  size: 274, 369
+  orig: 274, 369
   offset: 0, 0
   index: -1
 legs
   rotate: false
-  xy: 3985, 2
-  size: 1223, 885
-  orig: 1223, 885
+  xy: 2, 2
+  size: 734, 531
+  orig: 734, 531
   offset: 0, 0
   index: -1
 room
   rotate: false
-  xy: 2, 202
-  size: 3981, 2811
-  orig: 3981, 2811
+  xy: 2, 535
+  size: 2389, 1687
+  orig: 2389, 1687
   offset: 0, 0
   index: -1
 tattoo_base
   rotate: false
-  xy: 5493, 814
-  size: 333, 920
-  orig: 333, 920
+  xy: 2902, 34
+  size: 200, 552
+  orig: 200, 552
   offset: 0, 0
   index: -1
 tattoo_base2
-  rotate: true
-  xy: 5828, 71
-  size: 333, 919
-  orig: 333, 920
-  offset: 0, 1
+  rotate: false
+  xy: 3104, 34
+  size: 200, 552
+  orig: 200, 552
+  offset: 0, 0
   index: -1
 tattoo_base3
-  rotate: true
-  xy: 5828, 406
-  size: 333, 920
-  orig: 333, 920
+  rotate: false
+  xy: 3161, 1670
+  size: 200, 552
+  orig: 200, 552
   offset: 0, 0
   index: -1
 tattoo_glow
   rotate: false
-  xy: 5210, 194
-  size: 158, 160
-  orig: 201, 202
-  offset: 21, 20
+  xy: 2234, 169
+  size: 94, 94
+  orig: 121, 121
+  offset: 13, 13
   index: -1
 torso
-  rotate: false
-  xy: 3985, 1736
-  size: 2106, 1277
-  orig: 2106, 1277
+  rotate: true
+  xy: 2393, 959
+  size: 1263, 766
+  orig: 1263, 766
   offset: 0, 0
   index: -1
