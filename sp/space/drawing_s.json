@@ -1,10 +1,10 @@
 {
 "skeleton": {
-	"hash": "EUhR2pu/U72MuFOR35AK8PRLNR4",
+	"hash": "/G1yoh2+Cos20yUF7MXgWYhTYVw",
 	"spine": "3.8.82",
 	"x": -6309.73,
 	"y": -5621,
-	"width": 24294.73,
+	"width": 14270.73,
 	"height": 5622,
 	"images": "./images/",
 	"audio": "C:/Users/Joe/Desktop/Drawing/spine"
@@ -142,7 +142,7 @@
 				"tattoo_base2": { "x": -82.65, "y": 909.71, "rotation": -109.06, "width": 666, "height": 1839 }
 			},
 			"tattoo_base3": {
-				"tattoo_base3": { "x": -5270.01, "y": -14106.34, "rotation": -109.06, "width": 666, "height": 1839 }
+				"tattoo_base3": { "x": -84.42, "y": 904.56, "rotation": -109.06, "width": 666, "height": 1839 }
 			},
 			"Layer 24": {
 				"Layer 24": { "x": -36.29, "y": -53.58, "width": 348, "height": 177 }

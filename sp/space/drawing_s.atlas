@@ -1,111 +1,117 @@
 
 drawing_s.png
-size: 3363,2224
+size: 2188,2002
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Layer 24
-  rotate: true
-  xy: 2305, 63
+  rotate: false
+  xy: 98, 1947
   size: 104, 53
   orig: 104, 53
   offset: 0, 0
   index: -1
 armour
   rotate: false
-  xy: 1593, 24
+  xy: 1461, 1215
   size: 639, 509
   orig: 639, 523
   offset: 0, 14
   index: -1
 butt
-  rotate: true
-  xy: 2234, 265
+  rotate: false
+  xy: 439, 1884
   size: 268, 116
   orig: 268, 120
   offset: 0, 4
   index: -1
 clothes
-  rotate: true
-  xy: 2393, 54
+  rotate: false
+  xy: 556, 1291
   size: 903, 507
   orig: 903, 507
   offset: 0, 0
   index: -1
 eye_reflections
-  rotate: true
-  xy: 2330, 169
+  rotate: false
+  xy: 2, 1981
   size: 94, 19
   orig: 94, 19
   offset: 0, 0
   index: -1
 eyebase
-  rotate: true
-  xy: 2234, 30
+  rotate: false
+  xy: 204, 1931
   size: 137, 69
   orig: 137, 69
   offset: 0, 0
   index: -1
 galexy
   rotate: false
-  xy: 738, 14
+  xy: 535, 770
   size: 853, 519
   orig: 853, 519
   offset: 0, 0
   index: -1
 head
-  rotate: false
-  xy: 2902, 588
+  rotate: true
+  xy: 1817, 1726
   size: 274, 369
   orig: 274, 369
   offset: 0, 0
   index: -1
 legs
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 2, 946
   size: 734, 531
   orig: 734, 531
   offset: 0, 0
   index: -1
-room
-  rotate: false
-  xy: 2, 535
-  size: 2389, 1687
-  orig: 2389, 1687
-  offset: 0, 0
-  index: -1
 tattoo_base
-  rotate: false
-  xy: 2902, 34
+  rotate: true
+  xy: 709, 1800
   size: 200, 552
   orig: 200, 552
   offset: 0, 0
   index: -1
 tattoo_base2
-  rotate: false
-  xy: 3104, 34
+  rotate: true
+  xy: 1263, 1800
   size: 200, 552
   orig: 200, 552
   offset: 0, 0
   index: -1
 tattoo_base3
-  rotate: false
-  xy: 3161, 1670
+  rotate: true
+  xy: 2, 1682
   size: 200, 552
   orig: 200, 552
   offset: 0, 0
   index: -1
 tattoo_glow
   rotate: false
-  xy: 2234, 169
+  xy: 343, 1906
   size: 94, 94
   orig: 121, 121
   offset: 13, 13
   index: -1
 torso
-  rotate: true
-  xy: 2393, 959
+  rotate: false
+  xy: 2, 2
   size: 1263, 766
   orig: 1263, 766
+  offset: 0, 0
+  index: -1
+
+drawing_s2.png
+size: 1691,2393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+room
+  rotate: true
+  xy: 2, 2
+  size: 2389, 1687
+  orig: 2389, 1687
   offset: 0, 0
   index: -1

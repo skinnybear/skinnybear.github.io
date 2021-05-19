@@ -5,20 +5,18 @@
 
 <script>
 new spine.SpinePlayer("player-container", {
-	jsonUrl: "./drawing.json",
-	atlasUrl: "./drawing.atlas",
+	jsonUrl: "./drawing_s.json",
+	atlasUrl: "./drawing_s.atlas",
 	animation: "animation",
 	premultipliedAlpha: true,
 	viewport: {
+    animations: {
        "animation": {
-         x: -75,
-         y: 800,
-         width: 800,
-         height: 600,
-         padLeft: "5%",
-         padRight: "5%",
-         padTop: "5%",
-         padBottom: "5%"
+         x: 2500,
+		 y: -3300,
+         width: 3000,
+         height: 2400,
+
        }
     }
  }
